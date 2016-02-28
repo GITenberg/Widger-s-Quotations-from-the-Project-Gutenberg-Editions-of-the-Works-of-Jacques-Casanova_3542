@@ -1,0 +1,35 @@
+_repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Jacques-Casanova_3542
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Casanova, Giacomo
+    aliases:
+    - Seingalt, Jacques Casanova de
+    - Seingalt, Giacomo Girolamo Casanova de
+    birthdate: 1725
+    deathdate: 1798
+    gutenberg_agent_id: '1075'
+    url: http://www.gutenberg.org/2009/agents/1075
+    wikipedia: http://en.wikipedia.org/wiki/Giacomo_Casanova
+description: ''
+gutenberg_bookshelf: Project Gutenberg
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Quotations'
+title: Widger's Quotations from the Project Gutenberg Editions of the Works of Jacques
+  Casanova
+url: http://www.gutenberg.org/ebooks/3542
